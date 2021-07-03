@@ -1,5 +1,5 @@
 module TGW
+using LinearAlgebraicRepresentation
 
-greet() = print("Hello World!")
 
 end # module
