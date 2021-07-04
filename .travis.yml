@@ -1,6 +1,6 @@
 language: julia
 os:
-  - osx
+  - linux
 julia:
   - 1.6
 branches:
@@ -8,7 +8,7 @@ branches:
     - main
 notifications:
   email: false
-  
+
 # jobs:
 #   include:
 #     - stage: "Documentation"
