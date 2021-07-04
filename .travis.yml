@@ -10,7 +10,7 @@ notifications:
   email: false
 jobs:
   include:
-    - stage: "documentation"
+    - stage: "Documentation"
     julia: 1.6
     os: osx
     script:
