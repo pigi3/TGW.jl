@@ -2,3 +2,7 @@ name = "TGW"
 uuid = "2d886ecc-420f-485e-b3a7-1ed6b6aecc27"
 authors = ["Utente "]
 version = "0.1.0"
+
+[deps]
+LinearAlgebraicRepresentation = "95167b0c-186a-594b-a231-52369c6de044"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
