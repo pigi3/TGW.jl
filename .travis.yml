@@ -8,6 +8,7 @@ branches:
     - main
 notifications:
   email: false
+  
 # jobs:
 #   include:
 #     - stage: "Documentation"
